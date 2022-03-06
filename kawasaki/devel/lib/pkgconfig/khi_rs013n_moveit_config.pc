@@ -1,0 +1,8 @@
+prefix=/home/prism/kawasaki/devel
+
+Name: khi_rs013n_moveit_config
+Description: Description of khi_rs013n_moveit_config
+Version: 1.1.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

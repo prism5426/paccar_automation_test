@@ -1,0 +1,8 @@
+prefix=/home/prism/kawasaki/install
+
+Name: khi_duaro_moveit_config
+Description: Description of khi_duaro_moveit_config
+Version: 1.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

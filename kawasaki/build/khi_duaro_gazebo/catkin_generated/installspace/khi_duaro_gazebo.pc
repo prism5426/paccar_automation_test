@@ -1,0 +1,8 @@
+prefix=/home/prism/kawasaki/install
+
+Name: khi_duaro_gazebo
+Description: Description of khi_duaro_gazebo
+Version: 1.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
